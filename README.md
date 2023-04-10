@@ -27,8 +27,8 @@ To use this application, follow these steps:
 REACT_APP_API_KEY=<YOUR_API_KEY_HERE>
 ```
 
-##Credits
+## Credits
 This project was based on the tutorial from FreeCodeCamp, which can be found at https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
