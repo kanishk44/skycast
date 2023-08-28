@@ -1,11 +1,10 @@
 # Weather App using React
 
-This project is a weather application built with React.js. It is based on the tutorial from FreeCodeCamp, which aims to teach React.js by building a weather application. The application retrieves the current weather and forecast data from the OpenWeatherMap API based on the user's location.
+This project is a weather application built with React.js. The application retrieves the current weather and forecast data from the OpenWeatherMap API based on the user's location.
 
 ## Features
 
 * Displays the current temperature, weather condition, and location on the main page.
-* Provides hourly and daily forecasts for the next 5 days.
 * Allows the user to search for a specific location and get its weather information.
 * Units can be toggled between Celsius and Fahrenheit.
 
@@ -13,7 +12,7 @@ This project is a weather application built with React.js. It is based on the tu
 
 * React.js
 * OpenWeatherMap API
-* Axios
+* Symantic UI library
 
 ## Usage
 
@@ -27,8 +26,3 @@ To use this application, follow these steps:
 REACT_APP_API_KEY=<YOUR_API_KEY_HERE>
 ```
 
-## Credits
-This project was based on the tutorial from FreeCodeCamp, which can be found at https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
